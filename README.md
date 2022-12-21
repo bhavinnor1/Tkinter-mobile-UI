@@ -4,16 +4,4 @@ Download the Repository and run this in the project folder and also install MySQ
 
 pip install -r requirements.txt
 
-Ui Screenshots
-
-![My Image](demo/b09648963a45e90e85e8069e3191a8765217812c.webp)
-
-<img src="https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/b09648963a45e90e85e8069e3191a8765217812c.webp?raw=True" height="60" width="60" >
-
-
-![alt text](https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/b09648963a45e90e85e8069e3191a8765217812c.webp?raw=True)
-![alt text](https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/_PP_JOURNAL-33-42_smzkb3.webp?raw=True)
-![alt text](https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/cwp.webp?raw=True)
-![alt text](https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/hp.webp?raw=True)
-![alt text](https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/login.webp?raw=True)
-![alt text](https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/_PP_JOURNAL-33-42_smzkb3.webp](https://github.com/bhavinnor1/Tkinter-mobile-UI/blob/main/demo/tandc.webp?raw=True)
+Ui Screenshots in ![Alt text](https://github.com/bhavinnor1/Tkinter-mobile-UI/tree/main/demo "demo") folder
