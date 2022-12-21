@@ -1,5 +1,6 @@
 tkinter
-Pillow
-random
-mysql-connector
+mysql==0.0.3
+mysql-connector==2.2.9
+mysqlclient==2.1.1
+Pillow==9.3.0
 time
